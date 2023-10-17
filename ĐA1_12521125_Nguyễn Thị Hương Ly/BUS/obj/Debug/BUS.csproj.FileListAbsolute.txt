@@ -1,0 +1,11 @@
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\bin\Debug\BUS.dll
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\bin\Debug\BUS.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\obj\Debug\BUS.dll
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\obj\Debug\BUS.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\bin\Debug\DAL.dll
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\bin\Debug\DTO.dll
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\bin\Debug\DAL.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\bin\Debug\DTO.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\BUS\obj\Debug\BUS.csproj.CopyComplete

@@ -1,0 +1,30 @@
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.exe.config
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.exe
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmDangNhap.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.Properties.Resources.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.exe
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\BUS.dll
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\DTO.dll
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\DAL.dll
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\BUS.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\DTO.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\DAL.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmQLSach.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\GUI.csproj.CopyComplete
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmQLNhanVien.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmNXB.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmQLKhachHang.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmTheLoai.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmTrangChu.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmHoaDonBan.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmPhieuNhap.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmTKiemSach.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmTKePhieuNhap.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmTKeHoaDonBan.resources

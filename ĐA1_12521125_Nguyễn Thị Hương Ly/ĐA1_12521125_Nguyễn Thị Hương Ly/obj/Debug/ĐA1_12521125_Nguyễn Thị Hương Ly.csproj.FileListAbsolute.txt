@@ -1,0 +1,11 @@
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.exe.config
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.exe
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\bin\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.pdb
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.csproj.SuggestedBindingRedirects.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.frmDangNhap.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn_Thị_Hương_Ly.Properties.Resources.resources
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.csproj.GenerateResource.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.exe
+D:\ĐỒ ÁN\ĐA1_12521125_Nguyễn Thị Hương Ly\ĐA1_12521125_Nguyễn Thị Hương Ly\obj\Debug\ĐA1_12521125_Nguyễn Thị Hương Ly.pdb
